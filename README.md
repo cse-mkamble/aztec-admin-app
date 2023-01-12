@@ -4,14 +4,12 @@ __AZTEC Admin App -__ The AZTEC Admin Application is used to manage the [www.azt
 
 
 ## Application Download Link
----
 [AZTEC Admin Application](https://github.com/aztec-enterprise/aztec-admin-app/releases)
 
 https://github.com/aztec-enterprise/aztec-admin-app/releases
 
 
 ## Installation
----
 The installation of this application is very easy just click on __[setup.exe](https://github.com/aztec-enterprise/aztec-admin-app/releases)__ file and follow the directions, the installation is safe and secure for your windows you can ignore any warnings.
 
 ![plot](./assets/images/1.png)
@@ -30,7 +28,6 @@ This is the start up page for this software, there must be authenticed used in o
 ![plot](./assets/images/6.png)
 
 ## Category Manage
----
 ### Operation
 * Create new category.
 * Create new sub category to select category, when we want to add category into some-one catgory.
@@ -41,7 +38,6 @@ This is the start up page for this software, there must be authenticed used in o
 ![plot](./assets/images/7.png)
 
 ## Products Manage
----
 ![plot](./assets/images/8.png)
 ### Operation
 * Create product, this operation add new product detail like name, price, category, highlight describetion and images.
@@ -51,7 +47,6 @@ This is the start up page for this software, there must be authenticed used in o
 * Delete product, when product create accidently or wrong detail, then will be use this operation.
 
 ## Equiries Manage
----
 When customer sent any queries(messages) from [www.aztec-enterprise.in/contact](https://www.aztec-enterprise.in/contact) website, then this application will be check this contact query(message) and this application will be notify to admin owner.
 
 ![plot](./assets/images/9.png)
